@@ -1,0 +1,135 @@
+#wrapper{
+	width: 1191px;
+	height:1955px;
+	border: 2px solid black;
+	margin: 0 auto;
+	background-color:#89580a;
+}
+
+#header{
+	width: 1191px;
+	height: 350px;
+	background-color: #89580a;
+}
+
+#logo{
+	margin-bottom: 150px;
+	
+	
+}
+
+#ultimate{
+	width: 450px;
+	height: 150px;
+	margin-left: 370px;
+	text-align: center;
+	margin-top: -150px;
+	position: absolute;
+}
+
+
+#sidebar{
+	width: 170px;
+	height:690px;
+	
+	line-height: 480%;
+	float: left;
+	background-color: #89580a;
+	
+	
+	
+}
+	
+#men{
+	float: left;
+	border-radius: 10px 10px;
+}
+
+#side{
+	list-style-type: none;
+	width: 130px;
+	height:70px;
+	border: 2px solid black;
+	text-align: center;
+	margin: 10px;
+	margin-top: 70px;
+	color: white;
+	background-color: black;
+	
+}
+#guy{
+	border-radius: 20px 20px;
+	box-shadow: 10px 10px;
+}
+
+#side a{
+color: white;
+}
+#side hover{
+	text-decoration: bold;
+}
+
+#bar{
+	margin-left: -30px;
+}
+
+#main_content{
+	height: 1300px;
+	width: 1017px;
+	border: 2px solid black;
+	float: left;
+	text-align: center;
+	background-color: #aaa7a2;
+	line-height: 170%;
+	font-size: 120%;
+}
+#main_nav{
+	height: 1300px;
+	width: 1017px;
+	border: 2px solid black;
+	float: left;
+	text-align: center;
+	background-color: #aaa7a2;
+	line-height:450%;
+	font-size: 120%;
+}
+
+#main_go{
+	height: 1300px;
+	width: 1007px;
+	border: 2px solid black;
+	float: left;
+	background-color: #aaa7a2;
+	line-height: 195%;
+	font-size: 180%;
+	padding-left: 10px;
+	letter-spacing: 2px;
+}
+#main_run{
+	height: 1300px;
+	width: 1007px;
+	border: 2px solid black;
+	float: left;
+	background-color: #aaa7a2;
+	line-height: 195%;
+	font-size: 145%;
+	padding-left: 10px;
+	
+}
+
+#base{
+	border: 2px solid black;
+	height: 300px;
+	width: 1188px;
+	position: absolute;
+	margin-top: 1302px;
+	font-size: 190%;
+	text-align: center;
+	color: white;
+}
+#things{
+	width: 530px;
+	height: 1100px;
+	float: left;
+}
+
